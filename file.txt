@@ -1,4 +1,5 @@
-My first line in project
-London is the capital of GB
-Moscow is the capital of Russia
+﻿My first line in project
+<<<<<<< HEAD
 Paris is the capital of France
+=======
+>>>>>>> parent of 45eeef7... Была добавлена не одна столица, а несколько.
