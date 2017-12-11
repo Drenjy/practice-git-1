@@ -1,5 +1,6 @@
 ﻿My first line in project
 <<<<<<< HEAD
 Paris is the capital of France
+file.txt присутствует в двух секциях одновременно
 =======
 >>>>>>> parent of 45eeef7... Была добавлена не одна столица, а несколько.
